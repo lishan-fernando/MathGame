@@ -1,0 +1,160 @@
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\csc.exe
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\csc.exe.config
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\csc.rsp
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\csi.exe
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\csi.rsp
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.AppContext.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.Collections.Immutable.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.IO.FileSystem.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\System.Reflection.Metadata.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\vbc.exe
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\vbc.exe.config
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\vbc.rsp
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\VBCSCompiler.exe
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\roslyn\VBCSCompiler.exe.config
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Math2.dll.config
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Math2.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Math2.pdb
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Microsoft.Web.Infrastructure.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Microsoft.WebSockets.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Newtonsoft.Json.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.Common.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.Common.WebHost.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.WebApi.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Net.Http.Formatting.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Web.Http.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Web.Http.WebHost.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\WebActivatorEx.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.Common.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.Common.WebHost.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Ninject.Web.WebApi.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\Newtonsoft.Json.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Net.Http.Formatting.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Web.Http.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\bin\System.Web.Http.WebHost.xml
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\obj\Debug\Math2.dll
+E:\My Data\My Documents\Visual Studio 2015\Projects\Math2\Math2\obj\Debug\Math2.pdb
+C:\g_drive\Math2\Math2\bin\roslyn\csc.exe
+C:\g_drive\Math2\Math2\bin\roslyn\csc.exe.config
+C:\g_drive\Math2\Math2\bin\roslyn\csc.rsp
+C:\g_drive\Math2\Math2\bin\roslyn\csi.exe
+C:\g_drive\Math2\Math2\bin\roslyn\csi.rsp
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\g_drive\Math2\Math2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\g_drive\Math2\Math2\bin\roslyn\System.AppContext.dll
+C:\g_drive\Math2\Math2\bin\roslyn\System.Collections.Immutable.dll
+C:\g_drive\Math2\Math2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\g_drive\Math2\Math2\bin\roslyn\System.IO.FileSystem.dll
+C:\g_drive\Math2\Math2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\g_drive\Math2\Math2\bin\roslyn\System.Reflection.Metadata.dll
+C:\g_drive\Math2\Math2\bin\roslyn\vbc.exe
+C:\g_drive\Math2\Math2\bin\roslyn\vbc.exe.config
+C:\g_drive\Math2\Math2\bin\roslyn\vbc.rsp
+C:\g_drive\Math2\Math2\bin\roslyn\VBCSCompiler.exe
+C:\g_drive\Math2\Math2\bin\roslyn\VBCSCompiler.exe.config
+C:\g_drive\Math2\Math2\bin\Math2.dll.config
+C:\g_drive\Math2\Math2\bin\Math2.dll
+C:\g_drive\Math2\Math2\bin\Math2.pdb
+C:\g_drive\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\g_drive\Math2\Math2\bin\Microsoft.Web.Infrastructure.dll
+C:\g_drive\Math2\Math2\bin\Microsoft.WebSockets.dll
+C:\g_drive\Math2\Math2\bin\Newtonsoft.Json.dll
+C:\g_drive\Math2\Math2\bin\Ninject.dll
+C:\g_drive\Math2\Math2\bin\Ninject.Web.Common.dll
+C:\g_drive\Math2\Math2\bin\Ninject.Web.Common.WebHost.dll
+C:\g_drive\Math2\Math2\bin\Ninject.Web.WebApi.dll
+C:\g_drive\Math2\Math2\bin\System.Net.Http.Formatting.dll
+C:\g_drive\Math2\Math2\bin\System.Web.Http.dll
+C:\g_drive\Math2\Math2\bin\System.Web.Http.WebHost.dll
+C:\g_drive\Math2\Math2\bin\WebActivatorEx.dll
+C:\g_drive\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\g_drive\Math2\Math2\bin\Ninject.xml
+C:\g_drive\Math2\Math2\bin\Ninject.Web.Common.xml
+C:\g_drive\Math2\Math2\bin\Ninject.Web.Common.WebHost.xml
+C:\g_drive\Math2\Math2\bin\Ninject.Web.WebApi.xml
+C:\g_drive\Math2\Math2\bin\Newtonsoft.Json.xml
+C:\g_drive\Math2\Math2\bin\System.Net.Http.Formatting.xml
+C:\g_drive\Math2\Math2\bin\System.Web.Http.xml
+C:\g_drive\Math2\Math2\bin\System.Web.Http.WebHost.xml
+C:\g_drive\Math2\Math2\obj\Debug\Math2.csproj.CoreCompileInputs.cache
+C:\g_drive\Math2\Math2\obj\Debug\Math2.csproj.CopyComplete
+C:\g_drive\Math2\Math2\obj\Debug\Math2.dll
+C:\g_drive\Math2\Math2\obj\Debug\Math2.pdb
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\csc.exe
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\csc.exe.config
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\csc.rsp
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\csi.exe
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\csi.rsp
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.AppContext.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\vbc.exe
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\vbc.exe.config
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\vbc.rsp
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\VBCSCompiler.exe
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Math2.dll.config
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Math2.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Math2.pdb
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Microsoft.WebSockets.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Newtonsoft.Json.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.Common.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.WebApi.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Net.Http.Formatting.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Web.Http.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Web.Http.WebHost.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\WebActivatorEx.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.Common.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Ninject.Web.WebApi.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\Newtonsoft.Json.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Net.Http.Formatting.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Web.Http.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\bin\System.Web.Http.WebHost.xml
+C:\Users\mlwpf\Downloads\Math2\Math2\obj\Debug\Math2.csproj.CoreCompileInputs.cache
+C:\Users\mlwpf\Downloads\Math2\Math2\obj\Debug\Math2.csproj.CopyComplete
+C:\Users\mlwpf\Downloads\Math2\Math2\obj\Debug\Math2.dll
+C:\Users\mlwpf\Downloads\Math2\Math2\obj\Debug\Math2.pdb

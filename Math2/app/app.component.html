@@ -1,0 +1,44 @@
+﻿<div class="jumbotron text-center" style="margin-bottom:0">
+    <h1>Hello {{name}}</h1>
+    <p>Let's play !</p>
+</div>
+
+
+<div class="container">
+    <hr />
+    <div class="row">
+        <div class="col-md-12">
+            <form class="form-inline" [formGroup]="gameForm" (ngSubmit)="onSubmit()">
+                <label for="playerName">Player Name : </label>
+                <input class="form-control" formControlName="name" id="playerName">
+                <button type="submit" [disabled]="gameForm.pristine" class="btn btn-success"> Join Game </button>
+            </form>
+        </div>
+    </div>
+    <hr/>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header"><h1>Is this correct answer</h1></div>
+                <div class="card-body">
+                    <h1>{{ questionText }}</h1>
+                </div>
+                <div class="card-footer">
+                    <button class="btn btn-success" (click)="submitYes()">Yes</button>
+                    <button class="btn btn-danger" (click)="submitNo()">No</button>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">Players online</div>
+                <div class="card-body">
+                    <ul class="list-group">
+                        <li class="list-group-item" *ngFor="let player of players;"><p><span>{{ player.name }}</span> <span><b>({{ player.points }})</b></span></li>
+                    </ul>
+                </div>
+                <div class="card-footer"></div>
+            </div>
+        </div>
+    </div>
+</div>
